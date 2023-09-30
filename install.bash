@@ -14,3 +14,5 @@ cd plugin
 
 bash install.bash
 cd ..
+
+cp satelite/hakoniwa_path.json plugin/plugin-srcs/
