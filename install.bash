@@ -16,3 +16,4 @@ bash install.bash
 cd ..
 
 cp satelite/hakoniwa_path.json plugin/plugin-srcs/
+cp -rp satelite/Assets/* plugin/plugin-srcs/Assets/
